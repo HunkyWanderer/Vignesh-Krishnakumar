@@ -97,7 +97,7 @@ Supported secure operations in large enterprise retail environment.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=react)](https://your-portfolio-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=react)](https://github.com/HunkyWanderer/Vignesh-Krishnakumar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-krishnakumar-a194bb17a)
 [![Email](https://img.shields.io/badge/Email-krishvignesh2k@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:krishvignesh2k@gmail.com)
 
