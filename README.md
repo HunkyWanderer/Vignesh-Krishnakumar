@@ -25,7 +25,7 @@ Curious, quantitative problem-solver working across **data analysis**, **reporti
 
 ---
 
-## ✨ Selected projects
+## ✨ Projects
 
 ### 📊 **UK Education Metrics – KS2 attainment**  
 **Analysis of Key Stage 2 results using Department for Education (DfE) statistics**  
