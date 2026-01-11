@@ -57,7 +57,7 @@ Built YOLOv5 object detection pipeline on drone imagery to enable business expan
 *TCS contracted to Singapore Airlines*  
 Working on end-user computing insights, reporting, and operational analytics.
 
-**Jan 2025 – Jul 2025**  
+**Jun 2025 – Jul 2025**  
 **Data Analyst Intern**  
 *Gilder Aerial Solutions Pvt Ltd*  
 Developed YOLOv5 object detection pipeline for drone imagery → precision agriculture.
